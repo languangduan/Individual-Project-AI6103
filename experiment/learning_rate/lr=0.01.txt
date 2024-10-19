@@ -1,0 +1,16 @@
+{'epoch': 0, 'train_loss': 4.340252433013916, 'train_acc': 0.043575, 'valid_loss': 3.9818426319122313, 'valid_acc': 0.08220000000000001}
+{'epoch': 1, 'train_loss': 3.7938719535827636, 'train_acc': 0.10827500000000001, 'valid_loss': 3.6442888591766356, 'valid_acc': 0.1363}
+{'epoch': 2, 'train_loss': 3.5130187728881834, 'train_acc': 0.15515, 'valid_loss': 3.3753684490203857, 'valid_acc': 0.1764}
+{'epoch': 3, 'train_loss': 3.3033482177734377, 'train_acc': 0.19162500000000002, 'valid_loss': 3.256064455795288, 'valid_acc': 0.2005}
+{'epoch': 4, 'train_loss': 3.1371318504333496, 'train_acc': 0.22360000000000002, 'valid_loss': 3.072598609161377, 'valid_acc': 0.23420000000000002}
+{'epoch': 5, 'train_loss': 2.9847951820373537, 'train_acc': 0.24750000000000003, 'valid_loss': 2.9427419105529786, 'valid_acc': 0.26480000000000004}
+{'epoch': 6, 'train_loss': 2.8486902687072755, 'train_acc': 0.277525, 'valid_loss': 2.859875911331177, 'valid_acc': 0.28140000000000004}
+{'epoch': 7, 'train_loss': 2.721627429962158, 'train_acc': 0.30257500000000004, 'valid_loss': 2.7216661567687987, 'valid_acc': 0.30970000000000003}
+{'epoch': 8, 'train_loss': 2.6069607528686523, 'train_acc': 0.324475, 'valid_loss': 2.630082855606079, 'valid_acc': 0.32930000000000004}
+{'epoch': 9, 'train_loss': 2.482442088699341, 'train_acc': 0.3472, 'valid_loss': 2.5359080471038817, 'valid_acc': 0.3524}
+{'epoch': 10, 'train_loss': 2.3646359207153322, 'train_acc': 0.3743, 'valid_loss': 2.5170800548553465, 'valid_acc': 0.3567}
+{'epoch': 11, 'train_loss': 2.262565774154663, 'train_acc': 0.39277500000000004, 'valid_loss': 2.3718378551483155, 'valid_acc': 0.385}
+{'epoch': 12, 'train_loss': 2.173670666885376, 'train_acc': 0.41295000000000004, 'valid_loss': 2.296040849304199, 'valid_acc': 0.39640000000000003}
+{'epoch': 13, 'train_loss': 2.0793089279174803, 'train_acc': 0.432925, 'valid_loss': 2.3440637702941896, 'valid_acc': 0.39330000000000004}
+{'epoch': 14, 'train_loss': 1.9904387817382811, 'train_acc': 0.453925, 'valid_loss': 2.2679028827667236, 'valid_acc': 0.40940000000000004}
+{'Best Validation Accuracy': 0.40940000000000004}

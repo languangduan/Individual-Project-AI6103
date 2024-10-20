@@ -8,8 +8,8 @@ import torch.optim as optim
 from torch.optim.lr_scheduler import CosineAnnealingLR
 from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
-from mobilenet_sigmoid.mobilenet import MobileNet  # 假设你已经将MobileNet模型代码存为model.py
-from mobilenet_sigmoid.data import get_train_valid_loader, get_test_loader  # 假设你已经将数据集代码存为data_loader.py
+from mobilenet_sigmoid.mobilenet import MobileNet
+from mobilenet_sigmoid.data import get_train_valid_loader, get_test_loader
 
 
 def train(model, train_loader, criterion, optimizer, device, save_l2_norm=False):
